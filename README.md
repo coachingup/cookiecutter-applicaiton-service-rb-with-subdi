@@ -1,0 +1,1 @@
+# cookiecutter-applicaiton-service-rb-with-subdi
