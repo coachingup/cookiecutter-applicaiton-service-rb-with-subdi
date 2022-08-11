@@ -2,7 +2,8 @@
 	"service_name" : "my-application-service-",
 	"module_name" : "my-module",
         "dir": "bettererup-app",
-        "create_subdir": ["y", "n"],
+        "subdir": "{{cookiecutter.service_name}}",
+        "create_subdir": ["n", "y"],
 	"version": "1.0.0",
-	"@cortex_hidden_keys": ["dir"]
+	"@cortex_hidden_keys": ["dir", "create_subdir"]
 }
