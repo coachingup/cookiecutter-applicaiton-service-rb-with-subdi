@@ -1,1 +1,1 @@
-# cookiecutter-applicaiton-service-rb-with-subdi
+# cookiecutter-applicaiton-service-rb-with-subdir
